@@ -37,7 +37,7 @@ const App: React.FC = () => {
     const expertiseItems = [
         {
             title: 'Manuel Terapi',
-            desc: 'Ağrısız hareket için özel manipülasyon teknikleri.',
+            desc: 'Kişiye özel hazırlanmış manuel terapi programı',
             icon: UserCheck,
             color: 'bg-blue-50 text-blue-600'
         },
@@ -49,13 +49,13 @@ const App: React.FC = () => {
         },
         {
             title: 'Klinik Pilates',
-            desc: 'Hamilelik ve sonrası için güvenli egzersizler.',
+            desc: 'Reformer Pilates & Gebe Pilatesi',
             icon: Baby,
             color: 'bg-purple-50 text-purple-600'
         },
         {
             title: 'Ağrı Tedavisi',
-            desc: 'Bel, boyun ve fıtık kaynaklı ağrılara çözüm.',
+            desc: 'Bel, boyun ve fıtık kaynaklı ağrılara çözüm. Diş sıkma ve baş ağrısı için manuel tedavi teknikleri. Omurga kaynaklı ağrılara özel tedavi teknikleri.',
             icon: Stethoscope,
             color: 'bg-teal-50 text-teal-600'
         },
